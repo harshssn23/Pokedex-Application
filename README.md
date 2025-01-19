@@ -1,7 +1,7 @@
 # Pokedex-Application
 
 This project is a Pokédex application built using modern web technologies to display information about Pokémon fetched from the PokeAPI. The app allows users to search for specific Pokémon, filter by types, view detailed stats, and explore similar Pokémon.
-
+## Website link: [https://pokedexbyharsh.netlify.app/home]
 ## i. Tech Stack
 
 ### Frontend
